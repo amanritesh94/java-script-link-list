@@ -49,4 +49,4 @@ Common search algorithms such as linear search, binary search, and depth-first s
 To use any of the data structures or algorithms implemented in this repository, simply clone the repository to your local machine and utilize the JavaScript files accordingly.
 
 ```bash
-git clone https://github.com/your-username/data-structures-algorithms-js.git
+git clone https://github.com/amanritesh94/java-script-link-list.git
